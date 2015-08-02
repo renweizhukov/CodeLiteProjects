@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Practice" Database="">
+  <Project Name="LongestPalindromicSubString" Path="LongestPalindromicSubString/LongestPalindromicSubString.project" Active="No"/>
+  <Project Name="BlockingQueue" Path="BlockingQueue/BlockingQueue.project" Active="No"/>
+  <Project Name="Atoi" Path="Atoi/Atoi.project" Active="No"/>
+  <Project Name="RegularExpressionMatching" Path="RegularExpressionMatching/RegularExpressionMatching.project" Active="No"/>
+  <Project Name="IntegerToRoman" Path="IntegerToRoman/IntegerToRoman.project" Active="No"/>
+  <Project Name="ThreeSum" Path="ThreeSum/ThreeSum.project" Active="No"/>
+  <Project Name="SudokuSolver" Path="SudokuSolver/SudokuSolver.project" Active="No"/>
+  <Project Name="WildcardMatching" Path="WildcardMatching/WildcardMatching.project" Active="No"/>
+  <Project Name="Permute" Path="Permute/Permute.project" Active="No"/>
+  <Project Name="AppointmentSystem" Path="AppointmentSystem/AppointmentSystem.project" Active="Yes"/>
+  <Project Name="SuggestedMovieTitles" Path="SuggestedMovieTitles/SuggestedMovieTitles.project" Active="No"/>
+  <Project Name="Power" Path="Power/Power.project" Active="No"/>
+  <Project Name="TestStoi" Path="TestStoi/TestStoi.project" Active="No"/>
+  <Project Name="MoveSpacesToEnd" Path="MoveSpacesToEnd/MoveSpacesToEnd.project" Active="No"/>
+  <Project Name="PermutationsUnique" Path="PermutationsUnique/PermutationsUnique.project" Active="No"/>
+  <Project Name="PrintPrimeProduct" Path="PrintPrimeProduct/PrintPrimeProduct.project" Active="No"/>
+  <Project Name="LongestSubstringWithAtMostTwoDistinctCharacters" Path="LongestSubstringWithAtMostTwoDistinctCharacters/LongestSubstringWithAtMostTwoDistinctCharacters.project" Active="No"/>
+  <Project Name="MostCommonSubstring" Path="MostCommonSubstring/MostCommonSubstring.project" Active="No"/>
+  <Project Name="FlipBits" Path="FlipBits/FlipBits.project" Active="No"/>
+  <Project Name="FlipBits2" Path="FlipBits2/FlipBits2.project" Active="No"/>
+  <Project Name="WordSearch2" Path="WordSearch2/WordSearch2.project" Active="No"/>
+  <Project Name="SkylineProblem" Path="SkylineProblem/SkylineProblem.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="LongestPalindromicSubString" ConfigName="Debug"/>
+      <Project Name="BlockingQueue" ConfigName="Debug"/>
+      <Project Name="Atoi" ConfigName="Debug"/>
+      <Project Name="RegularExpressionMatching" ConfigName="Debug"/>
+      <Project Name="IntegerToRoman" ConfigName="Debug"/>
+      <Project Name="ThreeSum" ConfigName="Debug"/>
+      <Project Name="SudokuSolver" ConfigName="Debug"/>
+      <Project Name="WildcardMatching" ConfigName="Debug"/>
+      <Project Name="Permute" ConfigName="Debug"/>
+      <Project Name="AppointmentSystem" ConfigName="Debug"/>
+      <Project Name="SuggestedMovieTitles" ConfigName="Debug"/>
+      <Project Name="Power" ConfigName="Debug"/>
+      <Project Name="TestStoi" ConfigName="Debug"/>
+      <Project Name="MoveSpacesToEnd" ConfigName="Debug"/>
+      <Project Name="PermutationsUnique" ConfigName="Debug"/>
+      <Project Name="PrintPrimeProduct" ConfigName="Debug"/>
+      <Project Name="LongestSubstringWithAtMostTwoDistinctCharacters" ConfigName="Debug"/>
+      <Project Name="MostCommonSubstring" ConfigName="Debug"/>
+      <Project Name="FlipBits" ConfigName="Debug"/>
+      <Project Name="FlipBits2" ConfigName="Debug"/>
+      <Project Name="WordSearch2" ConfigName="Debug"/>
+      <Project Name="SkylineProblem" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="LongestPalindromicSubString" ConfigName="Release"/>
+      <Project Name="BlockingQueue" ConfigName="Release"/>
+      <Project Name="Atoi" ConfigName="Release"/>
+      <Project Name="RegularExpressionMatching" ConfigName="Release"/>
+      <Project Name="IntegerToRoman" ConfigName="Release"/>
+      <Project Name="ThreeSum" ConfigName="Release"/>
+      <Project Name="SudokuSolver" ConfigName="Release"/>
+      <Project Name="WildcardMatching" ConfigName="Release"/>
+      <Project Name="Permute" ConfigName="Release"/>
+      <Project Name="AppointmentSystem" ConfigName="Release"/>
+      <Project Name="SuggestedMovieTitles" ConfigName="Release"/>
+      <Project Name="Power" ConfigName="Release"/>
+      <Project Name="TestStoi" ConfigName="Release"/>
+      <Project Name="MoveSpacesToEnd" ConfigName="Release"/>
+      <Project Name="PermutationsUnique" ConfigName="Release"/>
+      <Project Name="PrintPrimeProduct" ConfigName="Release"/>
+      <Project Name="LongestSubstringWithAtMostTwoDistinctCharacters" ConfigName="Release"/>
+      <Project Name="MostCommonSubstring" ConfigName="Release"/>
+      <Project Name="FlipBits" ConfigName="Release"/>
+      <Project Name="FlipBits2" ConfigName="Release"/>
+      <Project Name="WordSearch2" ConfigName="Release"/>
+      <Project Name="SkylineProblem" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
